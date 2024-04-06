@@ -4,8 +4,10 @@
 该模型共分为三个版本：  
   
   第一版是最初立项时所做，当时并没有任何关于Solidworks的经验，但在不到一周的时间制作出了第一版，现在看看感觉还是有点成就感的()  
-![image](https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E5%88%9D%E4%BB%A3%E6%9C%BA%E6%A2%B0%E8%87%82.png)  
-  
+<div align=center>
+<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E5%88%9D%E4%BB%A3%E6%9C%BA%E6%A2%B0%E8%87%82.png" width="180" height="105"> width="180" height="105"/>
+</div>
+
   
   第二版则是在正式3D打印验证时经过反复修改最终得到，修改了很多打孔以及末端的细节，不得不说想做出成品还是很困难的，很多细节必须考虑到，比如走线，电机形状的不规则，3D打印的精度等等  
 ![image](https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E7%AC%AC%E4%BA%8C%E7%89%88.png)
