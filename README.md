@@ -19,10 +19,11 @@
   金属结构与3D打印实际上有非常多的不同之处，金属加工的结构通常是减材制造，而3D打印是增材制造，也就是说3D打印中实际上很多结构的连接是不需要考虑的，可以直接整体打印出来，而金属加工则连接处必须细致考虑，多大的螺丝孔，多厚的板材，板材过厚是否会导致机械臂自身负载过大等等，不过金属加工同样有好处，即精度很高  
 
 <div align=center>
-<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A51.png" width=50%><img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A52.png" width=50%>
+<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A51.png" width=50%><img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A52.png" width=40%>
 </div>
 
-  实物图：  
+<p align="center">实物图： </p>
+ 
 <div align=center>
 <img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E6%9C%BA%E6%A2%B0%E8%87%82%E7%85%A72.jpg" width=50%>
 </div>
