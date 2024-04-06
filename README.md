@@ -7,5 +7,9 @@ __<p align="center">模型图</p>__
 </div>
 
 <div align=center>
+<img src="https://github.com/DingyangLyu/Solidworks_project/blob/bionic_centipede/%E5%8D%95%E6%A8%A1%E5%9D%97.png" width=70%>
+</div>
+
+<div align=center>
 <img src="https://github.com/DingyangLyu/Solidworks_project/blob/bionic_centipede/%E6%95%B4%E4%BD%93.png" width=70%>
 </div>
