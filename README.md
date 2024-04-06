@@ -29,5 +29,8 @@ __<p align="center">实物图</p>__
 </div>
 
 # 一个小机器人
-2023年6月为比赛建模的一个小机器人
-模型图如下
+2023年6月为比赛建模的一个小机器人  
+__<p align="center">模型图</p>__
+<div align=center>
+<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E6%9C%BA%E6%A2%B0%E8%87%82%E7%85%A72.jpg" width=50%>
+</div>
