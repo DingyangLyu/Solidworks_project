@@ -22,7 +22,7 @@
 <img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A51.png" width=50%><img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A52.png" width=40%>
 </div>
 
-<p align="center">__实物图__ </p>
+__<p align="center">实物图</p>__
  
 <div align=center>
 <img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E6%9C%BA%E6%A2%B0%E8%87%82%E7%85%A72.jpg" width=50%>
