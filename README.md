@@ -5,7 +5,7 @@
   
   第一版是最初立项时所做，当时并没有任何关于Solidworks的经验，但在不到一周的时间制作出了第一版，现在看看感觉还是有点成就感的()  
 <div align=center>
-<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E5%88%9D%E4%BB%A3%E6%9C%BA%E6%A2%B0%E8%87%82.png" width="180" height="105"> width="180" height="105"/>
+<img src="https://github.com/DingyangLyu/SEA_robot_arm/blob/main/%E5%88%9D%E4%BB%A3%E6%9C%BA%E6%A2%B0%E8%87%82.png" width="1080" height="700">
 </div>
 
   
